@@ -1,5 +1,5 @@
 # ConsumingDataFromInternet
-:smile_cat: This app shows cat fact from a web server using Retrofit and Moshi :heart_eyes_cat:
+:smile_cat: This app shows cat fact from a web server using Retrofit and Moshi :japan:
 
 :straight_ruler: :paperclip: Architeture Components
   - MVVM
